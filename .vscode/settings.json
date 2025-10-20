@@ -1,0 +1,20 @@
+{
+    "ros.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/pope/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages",
+        "/home/pope/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/pope/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/pope/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/pope/install/my_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/pope/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages",
+        "/home/pope/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/pope/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/pope/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/pope/install/my_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "cmake.sourceDirectory": "/home/lyh/ros2_ws1/src/my_robot_bringup"
+}

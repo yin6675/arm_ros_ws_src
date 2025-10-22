@@ -9,7 +9,8 @@
         "/home/pope/ros2_ws/install/my_robot_interfaces/include/**",
         "/home/pope/install/my_robot_interfaces/include/**",
         "/opt/ros/jazzy/include/**",
-        "/usr/include/**"
+        "/usr/include/**",
+        "/home/lyh/ros2_ws1/install/my_robot_interfaces/include/**"   //包含的路径
 
       ],
       "name": "ROS",

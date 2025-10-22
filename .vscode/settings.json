@@ -16,5 +16,8 @@
         "/home/pope/install/my_py_pkg/lib/python3.12/site-packages",
         "/opt/ros/jazzy/lib/python3.12/site-packages"
     ],
-    "cmake.sourceDirectory": "/home/lyh/ros2_ws1/src/my_robot_bringup"
+    "cmake.sourceDirectory": "/home/lyh/ros2_ws1/src/my_robot_bringup",
+    "files.associations": {
+        "functional": "cpp"
+    }
 }
